@@ -358,7 +358,7 @@ label i {
 }
 
 #presentation-img {
-   background-image: url(/img/cathy-pham-FLQh5dkd4zk-unsplash.jpg);
+   background-image: url(../img/cathy-pham-FLQh5dkd4zk-unsplash.jpg);
    background-size: cover;
    background-repeat: no-repeat;
    background-position: top center;
@@ -437,15 +437,15 @@ label i {
 }
 
 #home-news .home-news-col .home-news-img-1 {
-   background-image: url(/img/ali-husnain-arshad-r5Ly4b13rXo-unsplash.jpg);
+   background-image: url(../img/ali-husnain-arshad-r5Ly4b13rXo-unsplash.jpg);
 }
 
 #home-news .home-news-col .home-news-img-2 {
-   background-image: url(/img/nate-greno-L1yrcSE_KWc-unsplash.jpg);
+   background-image: url(../img/nate-greno-L1yrcSE_KWc-unsplash.jpg);
 }
 
 #home-news .home-news-col .home-news-img-3 {
-   background-image: url(/img/madison-lavern-4gcqRf3-f2I-unsplash.jpg);
+   background-image: url(../img/madison-lavern-4gcqRf3-f2I-unsplash.jpg);
 }
 
 #home-news .home-news-col p {
